@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "827383470989",
+    "project_id": "habit-tracke",
+    "storage_bucket": "habit-tracke.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827383470989:android:148b32f4c70552d3467bc4",
+        "android_client_info": {
+          "package_name": "com.example.habit_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827383470989-gft2nhdmj7vja63idc0idps4lmtdd0fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habit_tracker",
+            "certificate_hash": "f3d6b1018cdc13d59bbe256f491bb183282a7b53"
+          }
+        },
+        {
+          "client_id": "827383470989-0k3o4qeoivja864nkn90vj6kis2i2sva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0CGePGGhP3RIBK4Jr2bn-7U5wlCSy3qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827383470989-0k3o4qeoivja864nkn90vj6kis2i2sva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "827383470989-epdc5puskn3g2c3tt9engp63tsajrliu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habitTracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827383470989:android:3268ce39e0ba6222467bc4",
+        "android_client_info": {
+          "package_name": "com.tuan.habittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827383470989-lo4lk5d3ndl6ogbh33icgmf50tgao0vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuan.habittracker",
+            "certificate_hash": "f3d6b1018cdc13d59bbe256f491bb183282a7b53"
+          }
+        },
+        {
+          "client_id": "827383470989-0k3o4qeoivja864nkn90vj6kis2i2sva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0CGePGGhP3RIBK4Jr2bn-7U5wlCSy3qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827383470989-0k3o4qeoivja864nkn90vj6kis2i2sva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "827383470989-epdc5puskn3g2c3tt9engp63tsajrliu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habitTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
